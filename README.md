@@ -1,5 +1,5 @@
 - 👋 Hola! soy Pedro Iván
-- 👀 Estoy interesado en el estudio de la mecánica cuántica, por ello estoy estudiando ingeniería fotónica en el IPN en México. Al ser una carrera nueva, pocas personas saben qué es.
+- 👀 Estoy interesado en el estudio de la mecánica cuántica, por ello estoy estudiando Ingeniería Fotónica en el IPN en México. Al ser una carrera nueva, pocas personas saben qué es.
 En pocas palabras, es el estudio de los fotones tanto desde la perspectiva de onda como de partícula. Es fascinante cómo la luz parece darse cuenta de que es observada y cambia su naturaleza.
 Por lo menos, es lo que muchos canales de YouTube enseñan, ya que si nos ponemos matemáticos, es un campo lleno de óptica, ecuaciones diferenciales, variable compleja, trigonometría y en casos
 específicos, topología. Claro, siempre considerando a la física y que las matemáticas son la herramienta para descubrir nuevas cosas.
